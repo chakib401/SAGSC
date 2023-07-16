@@ -39,10 +39,11 @@ If you use this code please do cite :
 
 ```BibTeX
 @inproceedings{fettal2023scalable,
-  author = {Fettal, Chakib and Labiod, Lazhar and Nadif, Mohamed},
-  title = {Scalable Attributed-Graph Subspace Clustering},
-  year = {2023},
-  booktitle = {Proceedings of the 37th AAAI Conference on Artificial Intelligence}
+  title={Scalable Attributed-Graph Subspace Clustering},
+  author={Fettal, Chakib and Labiod, Lazhar and Nadif, Mohamed},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={37},
+  year={2023}
 }
 ```
 
